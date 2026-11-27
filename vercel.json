@@ -1,0 +1,5 @@
+{
+  "installCommand": "echo 'Dependencies installed by portfolio build'",
+  "buildCommand": "node build-portfolio.mjs",
+  "outputDirectory": "dist"
+}
